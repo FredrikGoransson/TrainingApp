@@ -1,7 +1,0 @@
-<Modules>
-  <Module PersistentId="1AFA5D42-F26F-4F96-9C63-219366633827" ModuleId="TrainingApp.Data" />
-  <Module PersistentId="0DE50903-AE83-4014-84A1-176C702F5675" ModuleId="TrainingApp.Model" />
-  <Module PersistentId="F769BD3C-2F42-494E-A473-142F9A57778A" ModuleId="TrainingApp" />
-  <Module PersistentId="35F43426-7CDA-4AA0-BE96-29EB664CE9C1" ModuleId="TrainingApp.Tests" />
-  <Module PersistentId="C2CF5480-54A6-48BE-8F57-6DAF50729F17" ModuleId="TrainingApp.Persistance.Sql" />
-</Modules>
